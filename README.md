@@ -1,5 +1,5 @@
 # Papiro
-Created in InteliJ with dependencies from pom.xml
+Created in InteliJ with dependencies in pom.xml
 
 chromedriver.exe to be on local resources
 
